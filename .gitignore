@@ -1,0 +1,6 @@
+### Haskell ###
+
+.stack-work/
+_cache/
+_site/
+elm-stuff/
