@@ -1,5 +1,7 @@
 # Use Elm and Hakyll
 
+Elm has changed significantly since v0.10, and using the compiler as a library is no longer viable/preferred. This hakyll extension works with Elm v0.17 and improves upon previous similar solutions by working with multi-module elm programs (via `elm-make`).
+
 ## Usage
 
 Verify you have the `elm-make` build tool installed: `npm install -g elm`
